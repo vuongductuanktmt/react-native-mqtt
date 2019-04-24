@@ -59,14 +59,14 @@ project(':react-native-mqtt').projectDir = new File(rootProject.projectDir,  '..
 - Insert the following lines inside the dependencies block in `android/app/build.gradle`, don't missing `apply plugin:'java'` on top:
 
 ```
-compile project(':react-native-mqtt')
+implementation project(':react-native-mqtt')
 ```
 
 Notes:
 
 ```
 dependencies {
-  compile project(':react-native-mqtt')
+  implementation project(':react-native-mqtt')
 }
 ```
 
