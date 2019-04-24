@@ -19,7 +19,7 @@ This library in progress developing, api may change, SSL/TLS non verify
 
 #### JS
 ```bash
-npm install rusfearuth/react-native-mqtt --save
+npm install vuongductuanktmt/react-native-mqtt --save
 ```
 or
 ```bash
