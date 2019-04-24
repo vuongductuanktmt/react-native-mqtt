@@ -1,5 +1,5 @@
 {
-  "name": "@hawkingnetwork/react-native-mqtt",
+  "name": "react-native-mqtt",
   "version": "0.4.16",
   "description": "MQTT client for react-native",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hawkingnetwork/react-native-mqtt.git"
+    "url": "git+https://github.com/vuongductuanktmt/react-native-mqtt.git"
   },
   "keywords": [
     "mqtt",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hawkingnetwork/react-native-mqtt/issues"
+    "url": "https://github.com/vuongductuanktmt/react-native-mqtt/issues"
   },
-  "homepage": "https://github.com/hawkingnetwork/react-native-mqtt#readme"
+  "homepage": "https://github.com/vuongductuanktmt/react-native-mqtt#readme"
 }
